@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentakki416&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kentakki416)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <!--
 **kentakki416/kentakki416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
